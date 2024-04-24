@@ -54,6 +54,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.24.1",
     "gh-pages": "^6.1.1",
     "prettier": "^3.1.0",
     "prettier-plugin-tailwindcss": "^0.5.9",
